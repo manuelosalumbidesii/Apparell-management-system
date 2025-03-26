@@ -145,7 +145,7 @@ class LoginPageState extends State<LoginPage> {
                             ),
                           ),
                           Text(
-                            "Apparel Management System",
+                            "Apparel Management Systems",
                             style: GoogleFonts.poppins(
                               color: Colors.white70,
                               fontSize: 16,
